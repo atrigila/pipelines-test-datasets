@@ -1,0 +1,2 @@
+sample,chromosome,bam,bai
+NA12878,21,https://github.com/nf-core/test-datasets/raw/modules/data/delete_me/glimpse/NA12878.chr21.s.1x.bam,https://github.com/nf-core/test-datasets/raw/modules/data/delete_me/glimpse/NA12878.chr21.s.1x.bam.bai
